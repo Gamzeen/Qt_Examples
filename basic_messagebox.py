@@ -1,3 +1,5 @@
+#you can check from this link
+#https://github.com/Gamzeen/RaspberryPi/blob/master/PyQt5/message_box/msg_box.py
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QMessageBox
 
