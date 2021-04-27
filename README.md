@@ -1,5 +1,5 @@
 # PyQt_Example
-#-----------------------
+#--------------------------------------------------------
 I am new learner at Pqt. İ tried some PyQt basic Examples. 
 
 
