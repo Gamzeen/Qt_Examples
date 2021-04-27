@@ -1,3 +1,5 @@
+#You can check from here
+#https://birhankarahasan.com/pyqt-nedir-qt-designer-nedir-python-arayuz-olusturma
 import sys
 from PyQt5.QtWidgets import QWidget, QApplication
 
